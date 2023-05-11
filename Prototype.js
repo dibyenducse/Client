@@ -32,27 +32,62 @@
 
 //convert into Class
 
+// class Person {
+//     constructor(name, age) {
+//         this.name = name; //class property
+//         this.age = age;
+//     }
+//     eat() { //method
+//         console.log(`${this.name} is eating`);
+//     }
+// }
+
+// class Cricketer extends Person {
+//     constructor(name, age, type, country) {
+//         super(name, age);
+//         this.name = name;
+//         this.age = age;
+//         this.type = type;
+//         this.country = country;
+//     }
+//     play() {
+//         console.log(`${this.name} is playing`);
+//     }
+// }
+// const sakib = new Cricketer('sakib', 29, 'All rounder', 'Bangladeshi');
+// sakib.eat();
+
 class Person {
     constructor(name, age) {
-        this.name = name;
+        this.name = name; //class property
         this.age = age;
     }
     eat() {
+        //method
         console.log(`${this.name} is eating`);
     }
-}
 
-class Cricketer extends Person {
-    constructor(name, age, type, country) {
-        super(name, age);
-        this.name = name;
-        this.age = age;
-        this.type = type;
-        this.country = country;
+    get setName() {
+        //getter
+        return this.name;
     }
-    play() {
-        console.log(`${this.name} is playing`);
+
+    set metName(name) {
+        //setter
+        this.name = name;
+    }
+
+    static isEqualAge(fstage, scndage) {
+        //static //static 'This' refer to direct Object
+        return fstage.age === scndage.age;
     }
 }
-const sakib = new Cricketer('sakib', 29, 'All rounder', 'Bangladeshi');
-sakib.eat();
+let sakib = new Person('Sakib', 39);
+let tamim = new Person('Tamim', 39);
+
+//sakib.metName = 'Tamim';
+
+console.log(Person.isEqualAge(sakib, tamim));
+
+//Polymorphism
+//if Child class changed Parent property or method
