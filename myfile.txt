@@ -1,1 +1,427 @@
-hello
+//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);//raise an event
+setTimeout(() => {
+    this.emit('bellRing', {
+        period: 'first',
+        text: 'period ended',
+    });
+}, 2000);
