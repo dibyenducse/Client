@@ -1,7 +1,10 @@
-// const fs = require('fs');
+//Buffer = Data Type
+//Stream = Summetion of Buffer
 
-// const ourReadStream = fs.createReadStream(`${__dirname}/myfile.txt`);
+const fs = require('fs');
 
-// ourReadStream.on('data', (chunk) => {
-//     console.log(chunk.toString());
-// });
+const ourReadStream = fs.createReadStream(`${__dirname}/myfile.txt`);
+
+ourReadStream.on('data', (chunk) => {
+    console.log(chunk.toString());
+});
